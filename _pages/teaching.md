@@ -1,12 +1,36 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Teaching
+description:
 nav: true
-nav_order: 6
+nav_order: 4
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+### Graduate Courses
 
-Organize your courses by years, topics, or universities, however you like!
+- Course Assistant
+    - High-Dimensional Geometry, Data Analysis and Applications
+
+- Teaching Assistant
+    - Digital Signal Processing and Applications
+
+### Undergraduate Courses
+
+- **Adjunct Professor**, Akian College of Science and Engineering, American University of Armenia
+    - Linear Algebra and Ordinary Differential Equations
+    - Tomorrow’s Technologies
+- First Year Seminar Mentor, Supplemental Instructor
+- **Teaching Assistant**
+    - Signals and Systems
+    - Digital Communication Systems
+    - Digital Signal Processing
+    - Digital Circuits and Systems
+    - Physics Mechanics
+    - Calculus II
+- **Supplemental Instructor**
+    - Calculus I, II, III
+- **Tutor**
+    - Ordinary Differential Equations
+    - Linear Circuit Theory
+    - Calculus I, II, III
