@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://sourencho.com/mariam-avagyan-site/sitemap.xml
+Sitemap: https://sourencho.com/mariam-avagyan-site//mariam-avagyan-site//sitemap.xml
